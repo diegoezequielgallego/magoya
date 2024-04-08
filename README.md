@@ -25,7 +25,7 @@ body:
 POST : http://localhost:8080/transactions
 body:
 {
-    "accountId" : 9,
+    "accountId" : XXX,
     "transactionType" : "DEPOSIT",
     "amount" : "32.25"
 }
@@ -34,7 +34,7 @@ body:
 POST : http://localhost:8080/transactions
 body:
 {
-    "accountId" : 9,
+    "accountId" : XXX,
     "transactionType" : "WITHDRAWAL",
     "amount" : "32.25"
 }
@@ -43,7 +43,7 @@ body:
 POST : http://localhost:8080/transactions
 body:
 {
-    "accountId" : 9,
+    "accountId" : XXX,
     "transactionType" : "DEPOSIT",
     "amount" : "10032.25"
 }
